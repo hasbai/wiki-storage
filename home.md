@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2022-07-23T11:38:54.529Z
+date: 2022-08-15T03:45:13.023Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T05:51:41.456Z
@@ -10,7 +10,7 @@ dateCreated: 2022-07-23T05:51:41.456Z
 
 # FDU Wiki
 
-这是由 FDUer 自由编辑而成的知识库 (wiki)。我们希望它能够让你了解到在复旦生活的点点滴滴。
+这是由 FDUers 自由编辑而成的知识库 (wiki)。我们希望它能够让你了解到在复旦生活的点点滴滴。
 
 ## 目前计划
 如你所见，这本指南才刚刚起步，我们正在致力于补充新的内容。
