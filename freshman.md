@@ -2,7 +2,7 @@
 title: 复旦新生手册
 description: 
 published: true
-date: 2022-08-17T02:54:36.743Z
+date: 2022-08-17T02:57:31.562Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T06:12:39.753Z
