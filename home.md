@@ -2,7 +2,7 @@
 title: 首页
 description: 
 published: true
-date: 2022-08-15T08:21:21.551Z
+date: 2022-08-22T12:21:29.251Z
 tags: 
 editor: markdown
 dateCreated: 2022-07-23T05:51:41.456Z
@@ -47,6 +47,8 @@ Markdown 语法可参考 [https://docs.requarks.io/editors/markdown](https://doc
 ### 目录结构
 
 为了高效地组织内容，所有页面、文件、图片等均需放置在相应的文件夹下。
+
+由于页面左侧目录仅显示一级标题和二级标题，如果该页面只有一个一级标题且目录层次较多的话，可以把所有标题“升一级”。
 
 ### 资源
 
