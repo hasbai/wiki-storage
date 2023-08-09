@@ -2,7 +2,7 @@
 title: 学业
 description: 选课、转专业、退课、荣誉计划、培养方案......
 published: true
-date: 2023-08-09T08:44:24.732Z
+date: 2023-08-09T08:44:26.979Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-08T08:49:23.748Z
