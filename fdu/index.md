@@ -2,7 +2,7 @@
 title: FDU Wiki
 description: 
 published: true
-date: 2023-08-11T04:54:11.469Z
+date: 2023-08-11T04:55:40.467Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-11T04:53:46.071Z
@@ -20,11 +20,11 @@ dateCreated: 2023-08-11T04:53:46.071Z
 
 **我们欢迎的内容：**
 
-  - 选课指南
+  - [选课指南](/zh/fdu/studies/选课)
   - 生活、娱乐
   - 各专业发展方向介绍
   - 学术/职业生涯规划
-  - 校内社团宣传
+  - [校内社团宣传](/zh/fdu/clubs)
   - 访谈录、个人投稿等
   - ...... 
 
