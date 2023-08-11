@@ -2,13 +2,11 @@
 title: FDU Wiki
 description: 
 published: true
-date: 2023-08-11T04:53:46.071Z
+date: 2023-08-11T04:54:11.469Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-11T04:53:46.071Z
 ---
-
-# FDU Wiki
 
 这是由 FDUers 自由编辑而成的知识库 (wiki)，希望它能够让你了解到在复旦生活的点点滴滴。
 
