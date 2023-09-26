@@ -1,14 +1,14 @@
 ---
 title: FDU Wiki
-description: 
+description: 这是由复旦大学的同学及校友共同自由编辑而成的知识库，希望它能够让你了解到在复旦生活的点点滴滴。
 published: true
-date: 2023-09-26T00:53:04.528Z
-tags: 
+date: 2023-09-26T00:56:28.836Z
+tags: fdu, wiki
 editor: markdown
 dateCreated: 2023-08-11T04:53:46.071Z
 ---
 
-这是由 FDUers 自由编辑而成的知识库 (wiki)，希望它能够让你了解到在复旦生活的点点滴滴。
+这是由复旦大学的同学及校友共同自由编辑而成的知识库，希望它能够让你了解到在复旦生活的点点滴滴。
 
 ## 目前计划
 
