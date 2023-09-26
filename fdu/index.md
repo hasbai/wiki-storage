@@ -2,7 +2,7 @@
 title: FDU Wiki
 description: 
 published: true
-date: 2023-08-11T04:56:40.439Z
+date: 2023-09-26T00:53:04.528Z
 tags: 
 editor: markdown
 dateCreated: 2023-08-11T04:53:46.071Z
@@ -12,7 +12,7 @@ dateCreated: 2023-08-11T04:53:46.071Z
 
 ## 目前计划
 
-如你所见，这本指南才刚刚起步，我们正在致力于补充新的内容：
+这本指南才刚刚起步，我们可以补充以下新的内容：
 
 - [你的第一本复旦新生手册](/zh/fdu/freshman)
 - [选课指南](/zh/fdu/studies/选课)
